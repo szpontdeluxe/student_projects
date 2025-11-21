@@ -24,7 +24,11 @@ int main(){
 	char x = "t";
 	cin>>x;
 	string nowe;
-	if (x===t){
-	
+	if (x == 't'){
+        cin>>nowe;
+	plik<<nowe + "\n"';
 }
+else {
+cout<<"Okej"<<endl;}
+return 0;
 }
